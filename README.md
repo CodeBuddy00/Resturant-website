@@ -1,2 +1,2 @@
 # Resturant-website
-online website for resturant
+online website for resturant.
